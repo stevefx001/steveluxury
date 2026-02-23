@@ -1,0 +1,72 @@
+body{
+    background-image: url(https://www.onlandscape.co.uk/wp-content/uploads/2022/07/Pink_Paula_2.SkimmingStones-copy.jpg);
+    background-color: rgb(215, 245, 250);
+    text-align: auto;
+    margin: 0;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 80px;
+   align-items: right;
+   box-shadow: inset 0px 4px 15px rgba(40, 43, 134, 0.6);
+   box-sizing: color;
+   background: rgb(164, 218, 220);
+}
+
+h1{
+    text-align: center;
+}
+.nav{
+    display: flex;
+    gap: 100px;
+
+}
+.footer-box p{
+    text-align: center; 
+}
+
+h3{
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(164, 218, 220);
+    box-shadow: inset 0px 6px 18px rgb(33, 30, 30);
+    padding: 40px 0;
+    justify-content: space-between;
+}
+.footer-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-bottom{
+    text-align: center;
+    margin-top: 30px;
+    border-top: 1px solid #333;
+    padding-top: 15px;
+    font-size: 14px;
+    color: #aaa;
+
+}
+div h4 {
+    text-align: center;
+   
+}
+
+div p{
+    text-align: center;
+}
+.hero-btn{
+    border-radius: 20px;
+}
+
